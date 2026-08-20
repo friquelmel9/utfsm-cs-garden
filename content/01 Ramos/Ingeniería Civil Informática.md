@@ -1,3 +1,10 @@
+---
+tags:
+  - moc
+aliases:
+  - "#university"
+---
+
 # Ingeniería Civil Informática
 
 Esta nota incluye los ramos de ingeniería civil informática **en el orden que los tome.** 
